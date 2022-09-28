@@ -1,4 +1,4 @@
-@section('title', "Usuarios")
+@section('title', "Citas Médicas")
 
 <x-app-layout>
     <div class="content mt-2 p-2">

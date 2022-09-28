@@ -1,4 +1,4 @@
-@section('title', "Crear Doctor" )
+@section('title', "Editar Doctor" )
 
 <x-app-layout>
     <div class="row">

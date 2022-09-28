@@ -1,4 +1,4 @@
-@section('title', "Crear Usuario")
+@section('title', "Editar Cita médica")
 
 <x-app-layout>
     <div class="container mt-2">
