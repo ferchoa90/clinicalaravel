@@ -16,7 +16,8 @@ return new class extends Migration
         Schema::create('appointments', function (Blueprint $table) {
             $table->increments('id');
             $table->date('dateapp');
-            $table->longText('note');
+            $table->longText('note')->nullable();
+            $table->unsignedInteger('patient_id');
             $table->unsignedInteger('doctor_id');
             $table->tinyInteger('statusapp')->default(1);
             $table->tinyInteger('status')->default(1);

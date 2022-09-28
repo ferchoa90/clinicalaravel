@@ -1,0 +1,75 @@
+@media only screen and (max-width: 1900px){
+    .nav-header .logo-abbr 
+    {
+        max-width: 200px;
+    }
+}
+
+.content-body
+{
+    background-color: white;
+    padding-left: 5px;
+    padding-right: 10px;
+}
+
+table thead tr{
+color:white;
+font-size: 14px;
+background-color: #5bcfc5;
+}
+
+.table th, .table td, table thead th
+{
+    padding: 5px 10px;
+    font-size: 14px !important;
+
+}
+
+table tbody
+{
+    border-top: none !important;
+    
+}
+table tbody
+{
+    border-top: none !important;
+    border-bottom: 1px solid #5bcfc5;
+}
+
+.table tbody tr th
+{
+    font-weight: none;
+}
+
+.table thead tr th
+{
+    font-weight: 600;
+}
+
+.pr-30
+{
+    padding-right: 30px;
+}
+
+.font-b
+{
+    font-weight: 600;
+}
+
+.btn-primary
+{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+input, .form-control {
+    border: 0.0625rem solid #5bcfc5;
+}
+p{
+    margin-bottom: 0;
+}
+
+.alert
+{
+    padding: 0.5rem 1rem;
+}
