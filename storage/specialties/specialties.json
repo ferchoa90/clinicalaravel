@@ -1,0 +1,129 @@
+{
+    "specialties": [
+        {
+            "id": 1,
+            "name": "Alergología",
+            "status": 1
+        },
+        {
+            "id": 2,
+            "name": "Anestesiología y reanimación",
+            "status": 1
+        },
+        {
+            "id": 3,
+            "name": "Aparato digestivo",
+            "status": 1
+        },
+        {
+            "id": 4,
+            "name": "Cardiología",
+            "status": 1
+        },
+        {
+            "id": 5,
+            "name": "Endocrinología y nutrición",
+            "status": 1
+        },
+        {
+            "id": 6,
+            "name": "Geriatría",
+            "status": 1
+        },
+        {
+            "id": 7,
+            "name": "Hematología y hemoterapia",
+            "status": 1
+        },
+        {
+            "id": 8,
+            "name": "Medicina de la educación física y del deporte",
+            "status": 1
+        },
+        {
+            "id": 9,
+            "name": "Medicina espacial",
+            "status": 1
+        },
+        {
+            "id": 10,
+            "name": "Medicina intensiva",
+            "status": 1
+        },
+        {
+            "id": 11,
+            "name": "Medicina interna",
+            "status": 1
+        },
+        {
+            "id": 12,
+            "name": "Medicina legal y forense",
+            "status": 1
+        },
+        {
+            "id": 13,
+            "name": "Medicina preventiva y salud pública",
+            "status": 1
+        },
+        {
+            "id": 14,
+            "name": "Medicina del trabajo",
+            "status": 1
+        },
+        {
+            "id": 15,
+            "name": "Nefrología",
+            "status": 1
+        },
+        {
+            "id": 16,
+            "name": "Neumología",
+            "status": 1
+        },
+        {
+            "id": 17,
+            "name": "Neurología",
+            "status": 1
+        },
+        {
+            "id": 18,
+            "name": "Neurofisiología Clínica",
+            "status": 1
+        },
+        {
+            "id": 19,
+            "name": "Oncología médica",
+            "status": 1
+        },
+        {
+            "id": 20,
+            "name": "Oncología radioterápica",
+            "status": 1
+        },
+        {
+            "id": 21,
+            "name": "Pediatría",
+            "status": 1
+        },
+        {
+            "id": 22,
+            "name": "Psiquiatría",
+            "status": 1
+        },
+        {
+            "id": 23,
+            "name": "Rehabilitación",
+            "status": 1
+        },
+        {
+            "id": 24,
+            "name": "Reumatología",
+            "status": 1
+        },
+        {
+            "id": 25,
+            "name": "Medicina familiar y comunitaria",
+            "status": 1
+        } 
+    ]
+}
